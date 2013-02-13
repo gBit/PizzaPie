@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bacci Pizzeria</key>
+	<string>(773) 305-4100</string>
+	<key>Chicago&apos;s Pizza</key>
+	<string>(773) 477-2777</string>
+	<key>Gino&apos;s East</key>
+	<string>(312) 266-3337</string>
+	<key>Giordano&apos;s</key>
+	<string>(312) 583-9400</string>
+	<key>HomeMade Pizza Co.</key>
+	<string>(312) 595-0900</string>
+	<key>Lou Malnati&apos;s</key>
+	<string>(312) 828-9800</string>
+	<key>Pequod&apos;s Pizza</key>
+	<string>(773) 327-1512</string>
+	<key>Piece Brewery &amp; Pizzeria</key>
+	<string>(773) 772-4422</string>
+	<key>Pizzeria Due</key>
+	<string>(312) 943-2400</string>
+	<key>Pompei</key>
+	<string>(773) 325-1900</string>
+	<key>The Art of Pizza</key>
+	<string>(773) 327-5600</string>
+	<key>Uno&apos;s</key>
+	<string>(312) 321-1000</string>
+</dict>
+</plist>
